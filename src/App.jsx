@@ -10,6 +10,8 @@ function App() {
 
     <h2>Atualizando-V2</h2>
     <h2>Testando-V2</h2>
+
+    <h2>Testando-V3</h2>
     </>
   )
 }
